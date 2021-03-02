@@ -1,0 +1,41 @@
+Customer fixes:
+UEP-16659: Work with Lev for Raytheon Entrust Outlook Signing Issue
+UEP-28744: DLP usb encryption file is unusable
+UEP-21035: DLP custom message (Yale)
+UEP-22309: DLP discovery scan hang
+UEP-19422: Chrome cmd line opens blank page
+UEP-16096: Printing from excel not matched with Right to left language
+UEP-23555: WEFS files not cleaned up from temp
+UEP-20523: Chrome extension management via G-Suite
+UEP-18661: Chrome loads slow
+UEP-20961: Chrome extension gets re-enabled after profile update
+UEP-17772: PCEP not able to start
+UEP-17760: Fingerprint detection does not occur on Firefox
+UEP-13982: Over 10MB Fingerprint file not detected on EP when uploading to Dropbox
+UEP-29292: Windows PCEP does not apply X-WS-Settings (LaFarge)
+UEP-15381: Some encrypted files do not have lock icon
+UEP-28515: Windows DCEP - Cloud Reports Showing Incorrect Values (Possible DCEP Detection Issue) [MCS - Danaher]
+UEP-31661: Windows - DLP - After Printing a PDF via Chrome, Every Subsequent Print Job from Chrome Triggers an Incident, Even if We Print Something Innocuous that's Not a PDF
+UEP-31755: Windows PCEP: Chrome and Edge won't navigate after Disabling and Re-Enabling PCEP endpoint [Affinity]
+UEP-32511: [Analyst israel] Hebrew named document fails to be detected when printed from chrome
+UEP-31288: Windows - DCEP - Trying to add DCUserConfig.xml to F1E Installer package causes error [Raytheon]
+UEP-29292: Windows PCEP - EP does not apply X-WS-Settings. [LaFarge]
+UEP-33044: Windows - F1E - F1E Icon Appears in Stealth Mode 19.02.794
+UEP-32824: Constant GPO Updates HCL
+UEP-32372: Printing Windows 10 Build number in Debugdump log
+UEP-32509: Windows DLP OnlineApps -Blank destination Host causes transaction bypass (CTS) HCL
+UEP-27641: DCEP Windows & Mac: Cloud Auto-Updates are Downgrading Newer Endpoints
+UEP-28529: Windows DLP - Application slowness with endpoint installed
+UEP-28744: DLP Windows: EP profile encryption - files that are copied to a machine without EP installed become unusable
+UEP-29574: Windows DLP: Disabling Chrome extension using "EnableCE" reg key stopped working in 8.5.2830
+UEP-31035: Windows PCEP: Error concerning QIPCAP64.dll when installing Crowdstrike (World Pay)
+
+
+
+
+
+
+
+
+
+
